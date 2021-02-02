@@ -1,0 +1,21 @@
+var name="Zoya ";
+var lastname="Rana";
+var fullname=name.concat(lastname);
+var name_length=fullname.length;
+var capital_name=fullname.toUpperCase();
+var lower_name=capital_name.toLowerCase();
+var number=13;
+var number1=7;
+var add=number+number1;
+var subtract=number-number1;
+console.log("This is our first class in javascript");
+console.log(number);
+console.log(number1);
+console.log(name_length)
+console.log(name);
+console.log(lastname);
+console.log(fullname);
+console.log(capital_name);
+console.log(lower_name);
+console.log(add);
+console.log(subtract);
